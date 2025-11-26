@@ -1,0 +1,29 @@
+#caixa 
+{
+	display: grid;
+	justify-content: center;
+	align-items: space-around;
+}
+
+#texto
+{
+	position: fixed;
+	top: 60%;
+	left: 48.25%;
+	
+	font-family: arial black;
+	font-size: 19px;
+	
+	text-decoration: none;
+	color: black;
+}
+
+#tt 
+{
+	position: fixed;
+	top: 15%;
+	left: 34%;
+	
+	font-family: arial black;
+	font-size: 75px;
+}
